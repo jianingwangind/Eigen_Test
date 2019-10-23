@@ -1,5 +1,3 @@
-# Eigen_Test
-Eigen running Tests
 # Active Learning
 * **Query-synthesizing** approaches: which use generative models to generate informative samples.#
 
